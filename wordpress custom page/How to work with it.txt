@@ -1,0 +1,12 @@
+Creating a Custom Page in WordPress
+
+Go to your Cpanel 
+click on file manager
+select the site you want to upload the custom page template on
+click the wp content folder 
+select theme
+ select the theme u want the custom tempalte to be included 
+then select the page.php after which you will create a new folde with anypage.php
+then copy the php template into it and and save.
+Go back to your wordPress Dashboard
+create new page then select the template type you will see the page template you created and save then publish
